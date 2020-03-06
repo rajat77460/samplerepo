@@ -1,5 +1,3 @@
 writing data in master 
 
-moree data
-
-more dat by master branch finnaly 
+moree data more dat by master branch finnaly 
