@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 writing data in master 
 
 moree data
 
 more dat by master branch finnaly 
+=======
+
+hello rajat this is my first file in git 
+
+writing more data here
+>>>>>>> developer
